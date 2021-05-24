@@ -1,11 +1,11 @@
-﻿namespace FactoryMethod
+﻿namespace FactoryMethod.Clases
 {
     // Concrete Products proporciona varias implementaciones de la interfaz del producto.
     class ConcreteProduct1 : IProduct
     {
         public string Operation()
         {
-            return "{Result of ConcreteProduct1}";
+            return "{Resultado de ConcreteProduct1}";
         }
     }
 }

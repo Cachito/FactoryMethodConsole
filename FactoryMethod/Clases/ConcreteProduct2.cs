@@ -1,4 +1,4 @@
-﻿namespace FactoryMethod
+﻿namespace FactoryMethod.Clases
 {
     class ConcreteProduct2 : IProduct
     {

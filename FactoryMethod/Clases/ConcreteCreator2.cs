@@ -1,4 +1,4 @@
-﻿namespace FactoryMethod
+﻿namespace FactoryMethod.Clases
 {
     class ConcreteCreator2 : Creator
     {

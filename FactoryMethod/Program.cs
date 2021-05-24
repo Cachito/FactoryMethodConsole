@@ -1,4 +1,6 @@
 ﻿using System;
+using FactoryMethod.Clases;
+using FactoryMethod.Logistica;
 
 namespace FactoryMethod
 {
@@ -6,7 +8,9 @@ namespace FactoryMethod
     {
         static void Main(string[] args)
         {
-            new Client().Main();
+            //new Client().Main();
+
+            new LogisticaClient().Main();
 
             Console.ReadKey();
         }
