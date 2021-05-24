@@ -42,18 +42,26 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Client.cs" />
-    <Compile Include="ConcreteCreator1.cs" />
-    <Compile Include="ConcreteCreator2.cs" />
-    <Compile Include="ConcreteProduct1.cs" />
-    <Compile Include="ConcreteProduct2.cs" />
-    <Compile Include="Creator.cs" />
-    <Compile Include="IProduct.cs" />
+    <Compile Include="Clases\Client.cs" />
+    <Compile Include="Clases\ConcreteCreator1.cs" />
+    <Compile Include="Clases\ConcreteCreator2.cs" />
+    <Compile Include="Clases\ConcreteProduct1.cs" />
+    <Compile Include="Clases\ConcreteProduct2.cs" />
+    <Compile Include="Clases\Creator.cs" />
+    <Compile Include="Clases\IProduct.cs" />
+    <Compile Include="Logistica\BarcoCreator.cs" />
+    <Compile Include="Logistica\BarcoProducto.cs" />
+    <Compile Include="Logistica\CamionCreator.cs" />
+    <Compile Include="Logistica\CamionProducto.cs" />
+    <Compile Include="Logistica\ITransportProduct.cs" />
+    <Compile Include="Logistica\LogisticaClient.cs" />
+    <Compile Include="Logistica\LogisticaCreator.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

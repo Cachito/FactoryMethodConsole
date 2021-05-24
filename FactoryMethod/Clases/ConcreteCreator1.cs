@@ -1,4 +1,4 @@
-﻿namespace FactoryMethod
+﻿namespace FactoryMethod.Clases
 {
     // Concrete Creators anula el método de fábrica
     // para cambiar el tipo de producto resultante.

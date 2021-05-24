@@ -1,4 +1,4 @@
-﻿namespace FactoryMethod
+﻿namespace FactoryMethod.Clases
 {
     // La clase Creator declara el FactoryMethod que se supone que devuelve
     // un objeto de una clase Product.
@@ -19,7 +19,7 @@
             // Llamada al FactoryMethod para crear un objeto Producto.
             var product = FactoryMethod();
             // Ahora, uso del producto.
-            var result = "Creator: The same creator's code has just worked with " + product.Operation();
+            var result = "Creator: El mismo código de Creator acaba de funciona con " + product.Operation();
 
             return result;
         }

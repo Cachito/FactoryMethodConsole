@@ -5,3 +5,10 @@ C:\Cacho\GoogleDrive\UAI-2018\Tercer Año\Primer Cuatrimestre\Observación y Pra
 C:\Cacho\GoogleDrive\UAI-2018\Tercer Año\Primer Cuatrimestre\Observación y Practica Profesional\Presentación - Patrones de Creación\FactoryMethodConsole\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
 C:\Cacho\GoogleDrive\UAI-2018\Tercer Año\Primer Cuatrimestre\Observación y Practica Profesional\Presentación - Patrones de Creación\FactoryMethodConsole\FactoryMethod\obj\Debug\FactoryMethod.exe
 C:\Cacho\GoogleDrive\UAI-2018\Tercer Año\Primer Cuatrimestre\Observación y Practica Profesional\Presentación - Patrones de Creación\FactoryMethodConsole\FactoryMethod\obj\Debug\FactoryMethod.pdb
+C:\Cacho\Proyectos\FactoryMethodConsole\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\Cacho\Proyectos\FactoryMethodConsole\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\Cacho\Proyectos\FactoryMethodConsole\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\Cacho\Proyectos\FactoryMethodConsole\FactoryMethod\obj\Debug\FactoryMethod.csprojAssemblyReference.cache
+C:\Cacho\Proyectos\FactoryMethodConsole\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Cacho\Proyectos\FactoryMethodConsole\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\Cacho\Proyectos\FactoryMethodConsole\FactoryMethod\obj\Debug\FactoryMethod.pdb
